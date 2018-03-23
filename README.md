@@ -9,7 +9,7 @@ Apply to Sublime Text 3
 
 #### Results:
 #### js:
-![image](https://github.com/phpdu/Sublime-green-Theme/master/image/js-screenshorts.png)
+![image](https://github.com/phpdu/Sublime-green-Theme/blob/master/image/js-screenshorts.png)
 
 #### css:
 ![image](https://github.com/phpdu/Sublime-green-Theme/master/image/css-screenshorts.png)
